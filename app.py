@@ -1,12 +1,12 @@
 import streamlit as st 
 from PIL import Image
 
-image = Image.open("C:/Users/Dinuka's PC/Desktop/My Portfolio Website/images/profile2.jpeg")
-image2 = Image.open("C:/Users/Dinuka's PC/Desktop/My Portfolio Website/images/model.jpg")
-image3 = Image.open("C:/Users/Dinuka's PC/Desktop/My Portfolio Website/images/sanifly.jpg")
-image4 = Image.open("C:/Users/Dinuka's PC/Desktop/My Portfolio Website/images/shibaura_institute_of_technology_tokyo_logo.png")
-image5 = Image.open("C:/Users/Dinuka's PC/Desktop/My Portfolio Website/images/arimac.png")
-image6 = Image.open("C:/Users/Dinuka's PC/Desktop/My Portfolio Website/images/usj.png")
+image = Image.open("images/profile2.jpeg")
+image2 = Image.open("images/model.jpg")
+image3 = Image.open("images/sanifly.jpg")
+image4 = Image.open("images/shibaura_institute_of_technology_tokyo_logo.png")
+image5 = Image.open("images/arimac.png")
+image6 = Image.open("images/usj.png")
 
 st.set_page_config(page_title="My Webpage", page_icon=":smiley:", layout="wide")
  
@@ -28,7 +28,7 @@ with st.container():
         """)
         st.write("---")
 with st.container():
-  st.write("[Email](dilshanup125@gmail.com)   [Linkedin](https://Linkedin.com/in/dinuka-125)   [Github](https://github.com/dinuka125)  ")        
+  st.write("[Email](mailto:dilshanup125@gmail.com)   [Linkedin](https://Linkedin.com/in/dinuka-125)   [Github](https://github.com/dinuka125)  ")        
 
 with st.container():
     st.subheader("News")   

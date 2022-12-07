@@ -8,7 +8,7 @@ image4 = Image.open("images/shibaura_institute_of_technology_tokyo_logo.png")
 image5 = Image.open("images/arimac.png")
 image6 = Image.open("images/usj.png")
 
-st.set_page_config(page_title="My Webpage", page_icon=":smiley:", layout="wide")
+st.set_page_config(page_title="Dinuka Wijesundara", page_icon=":wave:", layout="wide")
  
 
 with st.container():
@@ -131,7 +131,7 @@ with st.container():
 
   with col2:
     st.markdown("**Arimac, Colombo, Sri Lanka**")
-    st.write("AI Research Intern  \n Jul 2021 - Dec 2021")    
+    st.write("Artificial intelligence Intern  \n Jul 2021 - Dec 2021")    
 
 with st.container():
   st.subheader("Education") 

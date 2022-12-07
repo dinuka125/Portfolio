@@ -131,7 +131,7 @@ with st.container():
 
   with col2:
     st.markdown("**Arimac, Colombo, Sri Lanka**")
-    st.write("Artificial intelligence Intern  \n Jul 2021 - Dec 2021")    
+    st.write("Artificial Intelligence Intern  \n Jul 2021 - Dec 2021")    
 
 with st.container():
   st.subheader("Education") 

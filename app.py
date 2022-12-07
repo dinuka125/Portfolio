@@ -37,7 +37,7 @@ with st.container():
     st.write("[Oct 2022]   Completed The AI Research internship at [SIT](https://www.shibaura-it.ac.jp/en/) Japan")     
     st.write("[Jun 2022]   Our team Ideacrushers emerged as Global Winners at [Commonwealth Digital Health Awards 2022](https://www.sjp.ac.lk/news/usj-team-won-eco-tech-category-at-the-5th-commonwealth-digital-health-awards-2022/) - IOT,ML,Cloud Computing")
     st.write("[Jan 2022]   Joined [Shibaura Institute of Technology](https://www.shibaura-it.ac.jp/en/) as AI Research Intern")  
-    st.write("[Dec 2021]   Competed Artificial Intelligence inetership at Arimac") 
+    st.write("[Dec 2021]   Completed Artificial Intelligence inetership at Arimac") 
     st.write("[Nov 2021]   Our team Ideacrushers emerged as Second Runner Up at International ICT Innovative Services Awards 2021 - IOT,ML,Cloud Computing") 
     st.write("[Oct 2021]   Paper titled 'A Framework for Smartwash room accepted to [IEEE 10th Global Conference on Consumer Electronics 2021 -Japan](https://www.ieee-gcce.org/)")  
     st.write("[Jul 2021]   Joined Arimac as Artificial Intelligence Intern")

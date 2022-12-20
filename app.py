@@ -17,7 +17,7 @@ with st.container():
         st.subheader("Hi, I am Dinuka :wave:")
         st.title("Dinuka Wijesundara")
         st.write("I'm a Fresh Graduate from University of Sri Jayewardenepura, Sri Lanka")
-        st.write("""I completed my undergrad, BSc Business Information Systems (Special) degree at Departement of Information technology, University of Sri jayewardenepura, SriLanka.
+        st.write("""I completed my undergrad, BSc Business Information Systems (Special) degree at Department of Information technology, University of Sri jayewardenepura, SriLanka.
         Where my bachelor's research and project were on Stock market price prediction using Deep Learning Neural networks, adviced by [Prof.Lasith Gunawardena.](https://mgt.sjp.ac.lk/itc/team_member/prof-k-s-lasith-gunawardena/)
         Previously I completed my research internship under the supervision of [Prof. Chinthaka Premachandra](https://shibaura.pure.elsevier.com/en/persons/chinthaka-premachandra) at [Departement of Electronic Engineering, Shibaura Institue of Technology, Koto ku, Japan.](https://www.shibaura-it.ac.jp/en/academics/engineering/ele.html)
         I gained industry experience working as an Artificial Intelligence Intern at Arimac, where my tasks were mainly focused on Deep learning with Computer Vision. 
